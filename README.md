@@ -1,9 +1,8 @@
 # Politiconnect Privacy Policy
 
-This privacy policy applies to the Politiconnect app (hereby referred to as "Application") for mobile devices that was created by PolitiLabs (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
-
+This privacy policy applies to the Politiconnect app (hereby referred to as "Application") for mobile devices that was created by PolitiLabs (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS 
 **Information Collection and Use**
-
+hhhaiauuuika
 The Application collects information when you download and use it. This information may include information such as
 
 *   Your device's Internet Protocol address (e.g. IP address)
